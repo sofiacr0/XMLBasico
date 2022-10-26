@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ejercicio>
+    <campos>
+        <destinatario>Juan Delgado Martínez</destinatario>
+        <artículo>Bicicleta Bianchi Oltre</artículo>
+        <dirección>Calle Reforma 423, tercer piso, letra A</dirección>
+        <fecha>19-09-2021</fecha>
+    </campos>
+</ejercicio>

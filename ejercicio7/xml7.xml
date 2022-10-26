@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+    <datos>
+        <contact_information>
+            <business_name></business_name>
+            <street_address></street_address>
+            <city></city>
+            <state></state>
+            <zip_code></zip_code>
+            <phone_number></phone_number>
+            <email></email>
+            <website></website>
+        </contact_information>
+        <bill_to>
+            <client_name></client_name>
+            <street_address></street_address>
+            <city></city>
+            <state></state>
+            <zip_code></zip_code>
+        </bill_to>
+        <ship_to>
+            <client_name></client_name>
+            <street_address></street_address>
+            <city></city>
+            <state></state>
+            <zip_code></zip_code>
+        </ship_to>
+        <invoice_details>
+            <invoice_number></invoice_number>
+            <invoice_date></invoice_date>
+            <terms_of_payment></terms_of_payment>
+        </invoice_details>
+        <description_of_goods_or_services>
+            <product></product>
+            <service></service>
+            <description></description>
+            <Qty_over_hrs></Qty_over_hrs>
+            <rate></rate>
+            <amount></amount>
+        </description_of_goods_or_services>
+        <customer_message>
+            <p>Hello!</p>
+            <p>Thank you for your purchase. Please return this invoice with payment. </p>
+            <p>Thanks!</p>
+        </customer_message>
+        <payment>
+            <subtotal></subtotal>
+            <sales_tax></sales_tax>
+            <shipping></shipping>
+            <total></total>
+        </payment>
+    </datos>
+</empresa>
